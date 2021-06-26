@@ -1,0 +1,7 @@
+id,insert_time,tx_amount,tx_type,status
+6,03/01/2021,20,Buy,Open
+5,03/01/2021,20,Sell,Open
+4,02/01/2021,10,Sell,Open
+3,02/01/2021,10,Buy,Open
+2,02/01/2021,100,Buy,Open
+1,02/01/2021,200,Sell,Open
